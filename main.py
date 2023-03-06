@@ -1,7 +1,18 @@
-# Este parcero les dice hola
-print('Hola Mundo')
-# Fin del programa
-lista = [1, 2, 3, 4, 5]
+# Inicio del programa
 
-for item in lista:
-    print(item)
+def multiplicar(a, b):
+    pass
+
+def dividir(a, b):
+    pass
+
+def sumar(a, b):
+    pass
+
+def restar(a, b):
+    pass
+
+def main():
+    pass
+
+main()
